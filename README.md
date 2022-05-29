@@ -1,6 +1,6 @@
 # best_ever_footbal_players
 
-<p>This is a simple but interesting script that uses `while`, 'read' and 'printf'</p> 
+<p>This is a simple but interesting script that uses ```while```, ```read``` and ```printf```</p> 
 *** <br>
 How does it work?<br>
 So, firstly the list of football_players is redirected to while loop.<br>
